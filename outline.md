@@ -1,6 +1,6 @@
 % CIVIS Workshop Outline
 % Conrad Borchers, Sirius Noske, Jonas Kießling
-% Last mod: Nov 11, 2020
+% Last mod: Nov 18, 2020
 
 # Summary
 
@@ -12,8 +12,8 @@ In a two-day seminar, participants will challenge their pre-existing ideas on wh
 
 * Times
 
-	* 9:00 - 10:30
-	* 11:00 - 12:00
+	* 9:00 - 10:00
+	* 10:30 - 12:00
 	* 14:00 - 16:00
 	* 16:30 - 18:00
 
@@ -23,7 +23,7 @@ A1
 Communication and society as a System?
 
 A2
-(Our) Perspectives on the pandemic
+(Our) Perspectives on the pandemic - with Dr. Anna Wanka (Goethe University Frankfurt)
 
 A3
 Obstacles and rhetoric foundations in communication 
@@ -50,9 +50,9 @@ Wrapping up - Next Steps
 We start our seminar off with important theoretical frameworks and questions that will guide our inquiry. What do we mean when we talk about "society" as a system? How can actors and communication inside of systems be conceptualized and analyzed? What cultural and interpersonal norms play a role in communication between systems? Informed by an interdisciplinary theory-framework participants will receive an interactive and brief introduction into systems and communication theory and relate these concepts to their own day-to-day experience.
 
 
-# A2 (Our) Perspectives on the pandemic
+# A2 (Our) Perspectives on the pandemic - with Anna Wanka (Goethe University Frankfurt) 
 
-The second session of the day is designed to be of interactive and creative nature. Uncovering the topic on which we will apply the theories discussed in section A1, we will brainstorm pieces of public discourse and relevant groups in the context of the SARS-CoV-2 pandemic. We will compare and contrast our preconceptions and experiences with the pandemic across nations and define questions to analyze and answer in later sections of the workshop.
+How can different perspectives in societies be scientifically investigated? In this session, we will welcome Anna Wanka from the research project “VERSUS Corona”, which currently investigates how practices of provisioning and care change in the course of SARS-CoV-2 pandemic and how these changes unequally affect people in different social situations, age groups, and spatial environments.  Through presenting their research, our guests will present insights and findings on this topic, and also discuss methods and interdisciplinary approaches to capture how people ‘make a living and make a life’ when confronted with diverse challenges of the pandemic. Together we will invite participants to discuss potentials and limitations of different conceptualizations of scientific reasoning and current research practice in the social sciences. Finally, participants will be invited to reflect our inquiry on their personal and collective experience of the ongoing pandemic. 
 
 
 # A3 Obstacles and rhetoric foundations in communication
@@ -63,7 +63,6 @@ This section of our workshop will try to answer the question on how to actually 
 # A4 Transfer: How to build a digital network (fast)
 
 Bringing together the sessions of the first day, we want to take a step back and summarize new insights that participants made and share them with everyone. As a bridge to the second day, we aim at posing the question: How can we create a new digital community that builds a common ground despite controversy? We will talk about foundational design principles, features and rules that should govern such a community.
-
 
 
 # B1 Design and Implementation I
