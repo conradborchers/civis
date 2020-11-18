@@ -23,7 +23,7 @@ A1
 Communication and society as a System?
 
 A2
-(Our) Perspectives on the pandemic - with Dr. Anna Wanka (Goethe University Frankfurt)
+(Our) Perspectives on the pandemic - with Anna Wanka (Goethe University Frankfurt)
 
 A3
 Obstacles and rhetoric foundations in communication 
