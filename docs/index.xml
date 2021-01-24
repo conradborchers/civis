@@ -11,12 +11,31 @@
     
     
     <item>
+      <title>Contact</title>
+      <link>http://civis.cborchers.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://civis.cborchers.com/contact/</guid>
+      <description>Send us an e-mail</description>
+    </item>
+    
+    <item>
       <title>Workshop</title>
       <link>http://civis.cborchers.com/workshop/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://civis.cborchers.com/workshop/</guid>
-      <description>Table of contents </description>
+      <description>Welcome Outline Slides
+Literature To be announced
+Slide links, currently only templates Day 1 A1
+A2
+A3
+A4
+Day 2 B1
+B2
+B3
+B4
+References GitHub repository of this page</description>
     </item>
     
   </channel>
