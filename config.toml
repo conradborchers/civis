@@ -1,0 +1,6 @@
+baseURL = "http://civis.cborchers.com/"
+languageCode = "en-us"
+title = "ParaNova"
+theme = "dimension"
+publishDir = "docs"
+
