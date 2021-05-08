@@ -2,4 +2,4 @@
 title: About
 ---
 
-{{< flyer >}}
+[Download information sheet here](/pdf/flyer.pdf)

@@ -2,4 +2,4 @@
 title: Contact	
 ---
 
-[Send us an e-mail](mailto:paran00va@gmail.com)
+[Send us an e-mail](mailto:conrad.borchers@student.uni-tuebingen.de)
