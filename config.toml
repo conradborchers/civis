@@ -1,6 +1,47 @@
 baseURL = "http://civis.cborchers.com/"
 languageCode = "en-us"
-title = "ParaNova"
-theme = "dimension"
+title = "CIVIS Seminar"
+theme = "etch"
 publishDir = "docs"
+enableInlineShortcodes = true
+pygmentsCodeFences = true
+pygmentsUseClasses = true
 
+[params]
+  description = "CIVIS Workshop"
+  copyright = "CC BY 4.0 International, Conrad Borchers"
+  dark = "auto"
+  highlight = true
+  
+[markup]
+  [markup.blackFriday]
+    hrefTargetBlank = true
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "home"
+    title = "home"
+    url = "/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    title = "about"
+    url = "/about/"
+    weight = 20
+    
+  [[menu.main]]
+    identifier = "contact"
+    name = "contact"
+    title = "contact"
+    url = "/contact/"
+    weight = 20
+    
+  [[menu.main]]
+    identifier = "workshop"
+    name = "workshop"
+    title = "workshop"
+    url = "/workshop/"
+    weight = 20

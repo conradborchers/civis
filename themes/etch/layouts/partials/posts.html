@@ -1,0 +1,12 @@
+<h2>Welcome!</h2>
+<br>
+This is the ParaNova project page for the CIVIS seminar on systemic thinking
+and consensual communication.
+<br><br>
+Please refer to the top panel for more information, including the slides
+and literature for the <a href='/workshop'>workshop</a>.
+<ul id="posts">
+{{- range where site.RegularPages "Type" "in" site.Params.mainSections }}
+    {{ .Render "li" }}
+{{- end }}
+</ul>
