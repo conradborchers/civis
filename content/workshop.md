@@ -14,23 +14,23 @@ title: Workshop
 
 ### Day 1
 
-[A1](/html/a1.html)
+<a href="/html/a1.html" target="_blank"><b>A1</b></a>
 
-[A2](/html/a2.html)
+<a href="/html/a2.html" target="_blank"><b>A2</b></a>
 
-[A3](/html/a3.html)
+<a href="/html/a3.html" target="_blank"><b>A3</b></a>
 
-[A4](/html/a4.html)
+<a href="/html/a4.html" target="_blank"><b>A4</b></a>
 
 ### Day 2
 
-[B1](/html/b1.html)
+<a href="/html/b1.html" target="_blank"><b>B1</b></a>
 
-[B2](/html/b2.html)
+<a href="/html/b2.html" target="_blank"><b>B2</b></a>
 
-[B3](/html/b3.html)
+<a href="/html/b3.html" target="_blank"><b>B3</b></a>
 
-[B4](/html/b4.html)
+<a href="/html/b4.html" target="_blank"><b>B4</b></a>
 
 ## References
 
