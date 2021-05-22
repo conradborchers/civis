@@ -20,13 +20,13 @@ In a two-day seminar, participants will challenge their pre-existing ideas on wh
 # Day 1
 
 A1
-Communication and society as a System?
+Communication and society as a System
 
 A2
 (Our) Perspectives on the pandemic - with Anna Wanka (Goethe University Frankfurt)
 
 A3
-Obstacles and rhetoric foundations in communication 
+Effective Communication: Obstacles and Solutions
 
 A4
 Transfer: How to build a digital network (fast) 
@@ -37,7 +37,7 @@ B1
 Design and Implementation I
 
 B2
-A common set of rules?
+A Common Set of Rules?
 
 B3
 Design and Implementation II 
@@ -45,7 +45,7 @@ Design and Implementation II
 B4
 Wrapping up - Next Steps
 
-# A1 Communication and society as a System?
+# A1 Communication and society as a System
 
 We start our seminar off with important theoretical frameworks and questions that will guide our inquiry. What do we mean when we talk about "society" as a system? How can actors and communication inside of systems be conceptualized and analyzed? What cultural and interpersonal norms play a role in communication between systems? Informed by an interdisciplinary theory-framework participants will receive an interactive and brief introduction into systems and communication theory and relate these concepts to their own day-to-day experience.
 
@@ -55,7 +55,7 @@ We start our seminar off with important theoretical frameworks and questions tha
 How can different perspectives in societies be scientifically investigated? In this session, we will welcome Anna Wanka from the research project “VERSUS Corona”, which currently investigates how practices of provisioning and care change in the course of SARS-CoV-2 pandemic and how these changes unequally affect people in different social situations, age groups, and spatial environments.  Through presenting their research, our guests will present insights and findings on this topic, and also discuss methods and interdisciplinary approaches to capture how people ‘make a living and make a life’ when confronted with diverse challenges of the pandemic. Together we will invite participants to discuss potentials and limitations of different conceptualizations of scientific reasoning and current research practice in the social sciences. Finally, participants will be invited to reflect our inquiry on their personal and collective experience of the ongoing pandemic. 
 
 
-# A3 Obstacles and rhetoric foundations in communication
+# A3 Effective Communication: Obstacles and Solutions
 
 This section of our workshop will try to answer the question on how to actually implement effective communication after having analyzed public discourse and groups participating in it. In other words: How can communication go wrong and what can we expect when communicating with groups with diverse opinions, values and backgrounds? The aim of this section is to prepare our considerations for the creation of a new digital network.
 
@@ -70,7 +70,7 @@ Bringing together the sessions of the first day, we want to take a step back and
 To start off our second day, we aim at addressing features of digital communication that are different from in vivo communication. Therefore, we will first offer a small theoretical input on digital media and machine learning in order to derive implications for the new digital network we want to build. Ultimately, we want to discuss the impact of the digital world on communication and information - and how to harness its potential for productive discussion. The goal of this session is to design a visual prototype that showcases how our digital network will look like.
 
 
-# B2 A common set of rules?
+# B2 A Common Set of Rules?
 
 This session aims to exchange ideas on how a digital community would have to be designed in order to integrate the communication principles we have accumulated. We will revisit our findings from A4 and investigate the questions of accessibility, moderators and rules. Does our digital network even need rules? How can rules be consensual, considering the diverse cultural and social backgrounds of the participants inside our digital network?
 
