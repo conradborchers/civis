@@ -4,4 +4,4 @@ title: Contact
 
 [Send us an e-mail](mailto:conrad.borchers@student.uni-tuebingen.de)
 
-{{< logo >}}
+{{< imgresize paranova-dark.jpg 600 300 logodark >}}

@@ -1,7 +1,7 @@
 baseURL = "http://civis.cborchers.com/"
 languageCode = "en-us"
 title = "CIVIS Seminar"
-theme = "etch"
+theme = "dimension"
 publishDir = "docs"
 enableInlineShortcodes = true
 pygmentsCodeFences = true
@@ -12,6 +12,7 @@ pygmentsUseClasses = true
   copyright = "CC BY 4.0 International, Conrad Borchers"
   dark = "auto"
   highlight = true
+  logoIcon = "creative-commons-by"
   
 [markup]
   [markup.blackFriday]
