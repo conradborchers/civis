@@ -10,7 +10,7 @@ pygmentsUseClasses = true
 [params]
   description = "CIVIS Workshop"
   copyright = "CC BY 4.0 International, Conrad Borchers"
-  dark = "auto"
+  dark = "on"
   highlight = true
   
 [markup]
