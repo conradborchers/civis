@@ -2,7 +2,7 @@
 title: Workshop
 ---
 
-[Outline Slides](https://civis.cborchers.com/html/outline.html)
+[Outline Slides](https://paranova.org/html/outline.html)
 
 ## Slides
 
