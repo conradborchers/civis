@@ -2,6 +2,6 @@
 title: Contact	
 ---
 
-[Send us an e-mail](mailto:conrad.borchers@student.uni-tuebingen.de)
+[Send us an e-mail](mailto:conrad.borchers@oii.ox.ac.uk)
 
 {{< logo >}}

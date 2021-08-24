@@ -8,23 +8,23 @@ title: Workshop
 
 #### Day 1
 
-[A1](https://civis.cborchers.com/html/a1.html)
+[A1](https://paranova.org/html/a1.html)
 
-[A2](https://civis.cborchers.com/html/a2.html)
+[A2](https://paranova.org/html/a2.html)
 
-[A3](https://civis.cborchers.com/html/a3.html)
+[A3](https://paranova.org/html/a3.html)
 
-[A4](https://civis.cborchers.com/html/a4.html)
+[A4](https://paranova.org/html/a4.html)
 
 #### Day 2
 
-[B1](https://civis.cborchers.com/html/b1.html)
+[B1](https://paranova.org/html/b1.html)
 
-[B2](https://civis.cborchers.com/html/b2.html)
+[B2](https://paranova.org/html/b2.html)
 
-[B3](https://civis.cborchers.com/html/b3.html)
+[B3](https://paranova.org/html/b3.html)
 
-[B4](https://civis.cborchers.com/html/b4.html)
+[B4](https://paranova.org/html/b4.html)
 
 ### Literature
 
